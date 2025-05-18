@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "author": "slaprrk7",
         "name": "Akame Theme",
-        "updater": "https://raw.githubusercontent.com/slaprrk7/akame-theme/main/akame_theme.json"
+        "updater": "https://github.com/slaprrk7/akame_theme-"
     },
     "background": {
         "url": "https://i.imgur.com/laweXRy.png",
