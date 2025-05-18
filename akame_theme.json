@@ -3,10 +3,10 @@
         "version": "1.0.0",
         "author": "slaprrk7",
         "name": "Akame Theme",
-        "updater": "https://github.com/slaprrk7/akame_theme-"
+        "updater": "https://raw.githubusercontent.com/slaprrk7/akame-theme/main/akame_theme.json"
     },
     "background": {
-        "url": "https://i.imgur.com/laweXRy.png",
+        "url": "https://images.alphacoders.com/850/850831.jpg",
         "blur_radius": 0
     },
     "fonts": {},
