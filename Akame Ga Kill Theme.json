@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Shawty",
+        "name": "Akame Themer",
+        "updater": ""
+    },
+    "background": {
+        "url": "https://wallpapercave.com/wp/wp4058915.jpg",
+        "blur_radius": 10
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 289489792,
+        "input_background": 855638016,
+        "accent": -65536, // Vermelho sangue
+        "mention_highlight": 855638016,
+        "active_channel": 16711680 // Vermelho forte
+    },
+    "colors": {
+        "link": -16711936, // Vermelho escuro
+        "primary_dark_300": -3407872, // Cinza escuro com tom avermelhado
+        "primary_dark_200": -2236963,
+        "primary_dark_400": -5000269,
+        "primary_dark_800": 289489792,
+        "uikit_btn_bg_color_selector_red": -3407872,
+        "uikit_settings_item_text_color_dark": -2236963
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -3407872,
+        "ic_sidebar_notifications_on_dark_24dp": -3407872,
+        "ic_sidebar_pins_off_dark_24dp": -3407872,
+        "ic_sidebar_pins_on_dark_24dp": -3407872,
+        "ic_sidebar_search_24dp": -3407872,
+        "ic_thread": -3407872
+    },
+    "raws": {}
+}
