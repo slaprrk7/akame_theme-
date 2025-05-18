@@ -7,7 +7,7 @@
     },
     "background": {
         "url": "https://images.alphacoders.com/850/850831.jpg",
-        "blur_radius": 0
+        "blur_radius": 15
     },
     "fonts": {},
     "simple_colors": {
