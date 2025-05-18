@@ -1,1 +1,39 @@
-
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "slaprrk7",
+        "name": "Akame Theme",
+        "updater": "https://raw.githubusercontent.com/slaprrk7/akame-theme/main/akame_theme.json"
+    },
+    "background": {
+        "url": "https://i.imgur.com/laweXRy.png",
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 385875968,
+        "input_background": 1040187393,
+        "accent": -2260368,
+        "mention_highlight": 652051056,
+        "active_channel": 2115838785
+    },
+    "colors": {
+        "link": -10191147,
+        "primary_dark_300": -5028782,
+        "primary_dark_200": -3032900,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": 385875968,
+        "uikit_btn_bg_color_selector_red": -5028782,
+        "uikit_settings_item_text_color_dark": -3032900
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -5028782,
+        "ic_sidebar_notifications_on_dark_24dp": -5028782,
+        "ic_sidebar_pins_off_dark_24dp": -5028782,
+        "ic_sidebar_pins_on_dark_24dp": -5028782,
+        "ic_sidebar_search_24dp": -5028782,
+        "ic_thread": -5028782
+    },
+    "raws": {}
+}
