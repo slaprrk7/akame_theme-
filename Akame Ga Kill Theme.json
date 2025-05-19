@@ -6,7 +6,7 @@
         "updater": ""
     },
     "background": {
-        "url": "https://images.alphacoders.com/127/1276723.jpg",
+        "url": "https://images.alphacoders.com/850/850831.jpg",
         "blur_radius": 10
     },
     "fonts": {},
@@ -14,13 +14,13 @@
         "background": 0,
         "background_secondary": 289489792,
         "input_background": 855638016,
-        "accent": -65536, // Vermelho sangue
+        "accent": -65536,
         "mention_highlight": 855638016,
-        "active_channel": 16711680 // Vermelho forte
+        "active_channel": 16711680
     },
     "colors": {
-        "link": -16711936, // Vermelho escuro
-        "primary_dark_300": -3407872, // Cinza escuro com tom avermelhado
+        "link": -16711936,
+        "primary_dark_300": -3407872,
         "primary_dark_200": -2236963,
         "primary_dark_400": -5000269,
         "primary_dark_800": 289489792,
