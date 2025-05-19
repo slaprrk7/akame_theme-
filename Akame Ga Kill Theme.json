@@ -3,10 +3,10 @@
         "version": "1.0.0",
         "author": "Shawty",
         "name": "Akame Themer",
-        "updater": "https://github.com/slaprrk7/akame_theme-"
+        "updater": ""
     },
     "background": {
-        "url": "https://wallpapercave.com/wp/wp4058915.jpg",
+        "url": "https://images.alphacoders.com/127/1276723.jpg",
         "blur_radius": 10
     },
     "fonts": {},
